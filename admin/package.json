@@ -1,6 +1,15 @@
 {
   "name": "admin-app",
   "version": "0.1.0",
+  "description": "Admin App",  
+  "author": {
+    "name": "jubaerHossain",
+    "email": "jubaer01.cse@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
   "private": true,
   "dependencies": {
     "@ant-design/charts": "^1.4.2",
